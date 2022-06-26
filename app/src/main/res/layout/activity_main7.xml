@@ -36,7 +36,7 @@
         android:id="@+id/select"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="选择查询游戏"
         app:layout_constraintBottom_toBottomOf="@+id/button6"
         app:layout_constraintEnd_toEndOf="@+id/mc_name"
         app:layout_constraintHorizontal_bias="0.0"
