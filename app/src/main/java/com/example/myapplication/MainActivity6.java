@@ -51,6 +51,7 @@ public class MainActivity6 extends AppCompatActivity {
                 editor.commit();
                 Intent intent = new Intent(MainActivity6.this,MainActivity7.class);
                 startActivity(intent);
+                finish();
             }
         });
     }
