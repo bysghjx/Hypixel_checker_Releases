@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Hypixel Inquirer</string>
+    <string name="P_info">玩家信息</string>
+    <string name="Bedwars">BedWars</string>
+    <string name="Sky_wars">SkyWars</string>
+    <string name="Murder_Mystery">MurderMystery</string>
+    <string name="Duels">Duels</string>
+    <string name="UHC">UHC</string>
+    <string name="Goback">返回</string>
+    <string name="Commit">提交</string>
+    <string name="Select">选择</string>
+    <string name="Reset_key">重置key</string>
+    <string name="query">查询</string>
+    <string name="Minecraft_Name">Minecraft Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
